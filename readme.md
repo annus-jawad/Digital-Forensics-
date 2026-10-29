@@ -84,5 +84,4 @@ An experimental digital forensics project evaluating data remanence and recovery
 
 * **Author:** Annus Jawad
 * **Role:** Digital Forensics & Incident Response (DFIR) Trainee
-* **LinkedIn:** [Your LinkedIn Profile]
-* **GitHub:** [Your GitHub Profile]
+
