@@ -67,18 +67,6 @@ An experimental digital forensics project evaluating data remanence and recovery
 
 ---
 
-## Repository Structure
-
-```
-.
-├── README.md                      # Project documentation and key takeaways
-├── data_recovery_case_study.md    # Detailed DFIR report and technical analysis
-├── hashes/
-│   ├── baseline_hashes.txt        # Initial SHA-256 hashes of test files
-│   └── recovered_hashes.txt       # Post-recovery hash comparisons
-└── scripts/
-    └── partial_hash_check.ps1     # PowerShell byte-stream trimming & hashing tool
-```
 
 ---
 
